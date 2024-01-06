@@ -1,0 +1,23 @@
+Jun 18 02:08:10 combo ftpd[31275]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:10 2005 
+Jun 18 02:08:10 combo ftpd[31276]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:10 2005 
+Jun 18 02:08:10 combo ftpd[31277]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:10 2005 
+Jun 18 02:08:06 combo sshd(pam_unix)[10041]: check pass; user unknown
+Jun 18 02:08:07 combo sshd(pam_unix)[10047]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14 
+Jun 18 02:08:10 combo ftpd[31278]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:10 2005 
+Jun 18 02:08:11 combo ftpd[31279]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:11 2005 
+Jun 18 02:08:11 combo ftpd[31281]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:11 2005 
+Jun 18 02:08:11 combo ftpd[31282]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:11 2005 
+Jun 18 09:20:07 combo sshd(pam_unix)[10045]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14 
+Jun 18 09:20:07 combo sshd(pam_unix)[10047]: check pass; user unknown
+Jun 18 09:20:11 combo ftpd[31283]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:11 2005 
+Jun 18 09:20:12 combo ftpd[31284]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:12 2005 
+Jun 18 09:20:12 combo ftpd[31285]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:12 2005 
+Jun 18 09:20:05 combo sshd(pam_unix)[10037]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14 
+Jun 18 09:20:05 combo sshd(pam_unix)[10039]: check pass; user unknown
+Jun 18 09:20:05 combo sshd(pam_unix)[10039]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14 
+Jun 18 09:20:06 combo sshd(pam_unix)[10041]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14 
+Jun 18 09:20:07 combo sshd(pam_unix)[10043]: check pass; user unknown
+Jun 18 09:20:07 combo sshd(pam_unix)[10043]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14 
+Jun 18 09:20:07 combo sshd(pam_unix)[10045]: check pass; user unknown
+Jun 18 09:20:07 combo sshd(pam_unix)[10049]: check pass; user unknown
+Jun 18 09:30:11 combo ftpd[31280]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:11 2005 
